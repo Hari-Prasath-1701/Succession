@@ -3,7 +3,7 @@
 
 
 ### Problem Statement
-*Create a web application where a business owner can login via Google. After the business
+Create a web application where a business owner can login via Google. After the business
 owner logs in, she sees her account details on the top-left side of the screen along with 2k
 random orders in the form of a list (a json is attached with the email). Each order has the following attributes:
 * Order ID
